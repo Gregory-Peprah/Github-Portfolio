@@ -11,7 +11,7 @@ A motivated security analyst who studies Computer Science at Ontario Tech Univer
   - Network Traffic Analysis (Wireshark, TCPdump)
   - SIEM Tools
   
-<h2>👨‍💻 CyberSecurity Projects</h2>
+<h2>👨‍💻 Petroleum Projects</h2>
 
   - [FTP Flaw Unleashes Privilege Escalation Nightmare](https://github.com/Hannah-A-S-Adjei/Guarding_Data_in_Transit-An_FTP_Vulnerability_Exploration)
   - [Brute Force Attack](https://github.com/Hannah-A-S-Adjei/Brute_Force_Attack)
