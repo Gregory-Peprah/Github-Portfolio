@@ -14,8 +14,7 @@ A motivated security analyst who studies Computer Science at Ontario Tech Univer
 <h2>👨‍💻 Petroleum Projects</h2>
 
   - [Managing Water Cut Impact on Oil Well Perfomance](https://github.com/Gregory-Peprah/Hydrocarbon-ICA/tree/main)
-  - [Brute Force Attack](https://github.com/Hannah-A-S-Adjei/Brute_Force_Attack)
-  - [Exploiting SSL Weaknesses: A Tactical Maneuver with Wireshark Insight](https://github.com/Hannah-A-S-Adjei/SSL-Vulnerability)
+
 
 <h2>Education</h2>
 
